@@ -28,4 +28,4 @@ async function getSDGAPIData() {
     }
 }
 
-document.addEventListener("DOMContentLoaded", getSDGAPIData);
+// document.addEventListener("DOMContentLoaded", getSDGAPIData);
